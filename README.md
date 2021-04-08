@@ -5,7 +5,8 @@
 2. [Instructions to use the repository](#Instruction)
 3. [My Learnings from the Specialization](#Learning)
 4. [Programming Assignments](#Programming)
-5. [Disclaimer](#Disc)
+5. [Results](#res)
+6. [Disclaimer](#Disc)
 
 ## Introduction<a name="Intro"></a>
 This Specialization is designed and taught by two experts in NLP, machine learning, and deep learning. **Younes Bensouda Mourri is an Instructor of AI at Stanford University** who also helped build the Deep Learning Specialization. **Łukasz Kaiser is a Staff Research Scientist at Google Brain** and the co-author of Tensorflow, the Tensor2Tensor and Trax libraries, and the Transformer paper.
@@ -83,6 +84,30 @@ I implemented encoder-decoder (Seq2seq model), causal, and self-attention to per
 
    - **[Week 4: Chatbots with a Reformer Model](https://github.com/Ankit-Kumar-Saini/Coursera_Natural_Language_Processing_Specialization/blob/main/C4%20-%20NLP%20with%20attention%20models/Week_4/C4_W4_Assignment.ipynb)**
       - Examine some unique challenges Transformer models face and their solutions, then build a chatbot using a Reformer model.
+
+## Results<a name="res"></a>
+`Some results from the programming assignments of this specialization`
+
+- Neural Machine Translation English to German
+![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Natural_Language_Processing_Specialization/blob/main/Results/machine_translation.PNG) 
+
+- Word Embeddings projection in 2D space
+![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Natural_Language_Processing_Specialization/blob/main/Results/word_embd_projection.PNG) 
+
+- Named Entity Recognition results
+![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Natural_Language_Processing_Specialization/blob/main/Results/NER.PNG) 
+
+- Auto Suggestion results
+![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Natural_Language_Processing_Specialization/blob/main/Results/auto_suggest.PNG)
+
+- Duplicate questions identification
+![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Natural_Language_Processing_Specialization/blob/main/Results/duplicate_questions.PNG)
+
+- Text Summarization using Transformers
+![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Natural_Language_Processing_Specialization/blob/main/Results/summarization.PNG)
+
+- ChatBot results
+![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Natural_Language_Processing_Specialization/blob/main/Results/chatbot.PNG)
 
 ## Disclaimer<a name="Disc"></a>
 The solutions uploaded in this repository are only for reference when you got stuck somewhere. Please don't use these solutions to pass programming assignments. 
